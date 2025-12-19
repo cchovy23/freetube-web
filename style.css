@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  background: #111;
+  color: #eee;
+  font-family: sans-serif;
+}
+
+header {
+  padding: 10px;
+  background: #1b1b1b;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+  background: #222;
+  color: white;
+  border: none;
+}
+
+.video {
+  display: flex;
+  gap: 10px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.video img {
+  width: 160px;
+}
